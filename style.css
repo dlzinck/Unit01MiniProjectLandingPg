@@ -1,0 +1,34 @@
+* {
+    background-color: gold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+header {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    position: fixed;
+    top: 0;
+}
+
+a {
+    color: black;
+}
+
+footer{
+    color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border: 10px blue double;
+    padding: 100px;
+}
+
+.form {
+    border: 5px black dashed;
+    margin-left: 90%;
+}
